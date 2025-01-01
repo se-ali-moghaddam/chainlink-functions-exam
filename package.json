@@ -1,0 +1,22 @@
+{
+  "name": "chainlink-functions-exam",
+  "version": "1.0.0",
+  "description": "chainlink functions exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/se-ali-moghaddam/chainlink-functions-exam.git"
+  },
+  "author": "Ali Moghaddam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/se-ali-moghaddam/chainlink-functions-exam/issues"
+  },
+  "homepage": "https://github.com/se-ali-moghaddam/chainlink-functions-exam#readme",
+  "dependencies": {
+    "hardhat": "^2.22.17"
+  }
+}
