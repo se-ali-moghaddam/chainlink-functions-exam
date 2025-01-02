@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/se-ali-moghaddam/chainlink-functions-exam#readme",
   "dependencies": {
+    "@chainlink/contracts": "^1.3.0",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
     "hardhat": "^2.22.17"
   }
 }
